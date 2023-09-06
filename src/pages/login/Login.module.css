@@ -1,0 +1,109 @@
+.login {
+  background-color: #008f8f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div {
+  background-color: #008f8f;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.login .IMG {
+  height: 99px;
+  left: 652px;
+  position: absolute;
+  top: 45px;
+  width: 137px;
+}
+
+.login .overlap {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 658px;
+  left: 426px;
+  position: absolute;
+  top: 183px;
+  width: 588px;
+}
+
+.login .group {
+  height: 85px;
+  left: 37px;
+  position: absolute;
+  top: 102px;
+  width: 518px;
+}
+
+.login .overlap_group {
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 514px;
+}
+
+.login .text_wrapper {
+  color: #c8c8c8;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.login .text_wrapper2 {
+  color: #000000;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.login .div_wrapper {
+  background-color: #008f8f;
+  border-radius: 10px;
+  height: 55px;
+  left: 166px;
+  position: absolute;
+  top: 387px;
+  width: 257px;
+}
+
+.login .text_wrapper3 {
+  color: #ffffff;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.login .group2 {
+  height: 85px;
+  left: 37px;
+  position: absolute;
+  top: 212px;
+  width: 518px;
+}
